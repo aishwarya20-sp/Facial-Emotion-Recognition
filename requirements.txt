@@ -1,0 +1,14 @@
+tensorflow
+opencv-contrib-python
+mtcnn
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
+notebook
+tqdm
+keras
+
+-e .
