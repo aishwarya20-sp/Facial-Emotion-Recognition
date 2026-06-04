@@ -219,8 +219,8 @@ __marimo__/
 
 
 venv/
-artifacts/
-results/
+
+
 notebook/data/train/
 notebook/data/test/
 *.keras
