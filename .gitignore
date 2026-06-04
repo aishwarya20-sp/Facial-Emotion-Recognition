@@ -219,8 +219,5 @@ __marimo__/
 
 
 venv/
-notebook/data/train/
-notebook/data/test/
-*.keras
 __pycache__/
 .ipynb_checkpoints/
