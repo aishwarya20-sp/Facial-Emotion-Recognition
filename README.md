@@ -1,5 +1,4 @@
 ## End To End Facial Emotion Recognition
-
 Project Overview
 Dataset
 Model Architecture
