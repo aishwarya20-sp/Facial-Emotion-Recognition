@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+venv/
+artifacts/
+results/
+notebook/data/train/
+notebook/data/test/
+*.keras
+__pycache__/
+.ipynb_checkpoints/
